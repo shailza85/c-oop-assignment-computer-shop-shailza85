@@ -6,7 +6,12 @@ namespace CSharpOOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Cellphone myCellPhone = new Cellphone();
+            myCellPhone.ConnectPeripheral(new Mouse("hp", Mouse.Connector.USBTypeA, 34));
+            Console.WriteLine(myCellPhone);
+
+
+
         }
     }
 }

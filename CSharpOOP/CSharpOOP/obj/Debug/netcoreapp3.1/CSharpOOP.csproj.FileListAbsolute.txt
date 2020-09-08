@@ -1,0 +1,13 @@
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\obj\Debug\netcoreapp3.1\CSharpOOP.csprojAssemblyReference.cache
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\obj\Debug\netcoreapp3.1\CSharpOOP.AssemblyInfoInputs.cache
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\obj\Debug\netcoreapp3.1\CSharpOOP.AssemblyInfo.cs
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\obj\Debug\netcoreapp3.1\CSharpOOP.csproj.CoreCompileInputs.cache
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\bin\Debug\netcoreapp3.1\CSharpOOP.exe
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\bin\Debug\netcoreapp3.1\CSharpOOP.deps.json
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\bin\Debug\netcoreapp3.1\CSharpOOP.runtimeconfig.json
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\bin\Debug\netcoreapp3.1\CSharpOOP.runtimeconfig.dev.json
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\bin\Debug\netcoreapp3.1\CSharpOOP.dll
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\bin\Debug\netcoreapp3.1\CSharpOOP.pdb
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\obj\Debug\netcoreapp3.1\CSharpOOP.dll
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\obj\Debug\netcoreapp3.1\CSharpOOP.pdb
+C:\Users\atul\source\repos\c-oop-assignment-computer-shop-shailza85\CSharpOOP\CSharpOOP\obj\Debug\netcoreapp3.1\CSharpOOP.genruntimeconfig.cache
